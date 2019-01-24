@@ -15,4 +15,6 @@
     <string name="firstword_cardview">Hace</string>
     <string name="timecard">4 días</string>
     <string name="like_number_cardview">10 Me gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
 </resources>
