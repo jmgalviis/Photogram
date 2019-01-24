@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="dontHaveAccount">¿No tienes Cuenta?</string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="user">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="button_create_account">Join Us</string>
+    <string name="toolbar_tittle_creationaccount">Crear Cuenta</string>
+    <string name="username_cardview">Juan Galvis</string>
+    <string name="firstword_cardview">Hace</string>
+    <string name="timecard">4 días</string>
+    <string name="like_number_cardview">10 Me gusta</string>
+</resources>

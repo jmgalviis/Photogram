@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Photogram</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="dontHaveAccount">¿No tienes Cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="email">Correo</string>
+    <string name="name">Nombre</string>
+    <string name="user">Usuario</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="button_create_account">Únete</string>
+    <string name="toolbar_tittle_creationaccount">Crear Cuenta</string>
+    <string name="username_cardview">Juan Galvis</string>
+    <string name="firstword_cardview">Hace</string>
+    <string name="timecard">4 días</string>
+    <string name="like_number_cardview">10 Me gusta</string>
+</resources>
